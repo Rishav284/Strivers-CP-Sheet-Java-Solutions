@@ -28,7 +28,7 @@ The original sheet can be found here:
 
 ## 📈 Current Progress
 
-* **Problems Solved:** `12 / 297`
+* **Problems Solved:** `14 / 297`
 * **Current Topic:** `Implementation Based Problems`
 
 ### Progress Tracker
